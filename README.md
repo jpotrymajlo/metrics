@@ -1,6 +1,6 @@
 # metrics
 
-Step to run the script:
+Steps to run the script:
 1) download the code from github
 2) #cd metrics
 3) #python3 -m venv .venv
