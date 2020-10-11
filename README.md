@@ -9,6 +9,8 @@
 5) #pip install -r requirements.txt
 6) #python3 __main__.py filename
 
+results are available in *.png files
+
 ## Metrics
 1) Number of events during a period of time
 2) Number of host active during a periof of time
